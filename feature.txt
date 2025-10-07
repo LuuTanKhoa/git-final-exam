@@ -1,0 +1,7 @@
+## Mô tả tính năng mới
+
+1. Tính năng: Tự động ghi log khi người dùng đăng nhập.
+2. Mục tiêu: Theo dõi hoạt động đăng nhập để tăng bảo mật.
+3. Công nghệ: Sử dụng Python logging module.
+4. Lợi ích: Dễ dàng kiểm tra và phân tích lỗi.
+5. Kế hoạch: Hoàn thành trong 3 ngày tới.
