@@ -9,6 +9,7 @@
 7. Chủ nhật: Nghỉ ngơi và xem lại toàn bộ nội dung.
 8. Ghi chú: Hạn chế commit sai message.
 9. Luôn push sau mỗi commit quan trọng.
+<<<<<<< Updated upstream
 10. Đọc thêm tài liệu Git chính thức.11.
 11. Ôn tập lại các lệnh Git quan trọng.
 12. Viết ghi chú chi tiết cho từng lệnh.
@@ -16,6 +17,12 @@
 14. Chuẩn bị tài liệu báo cáo cuối tuần.
 
 
+=======
+10. Đọc thêm tài liệu Git chính thức.
+11. Kiểm tra hiểu biết về merge conflict.
+12. Hoàn thiện bài thực hành Git nâng cao.
+13. 
+>>>>>>> Stashed changes
 
 Ngày bắt đầu: 07/10/2025
 Ngày kết thúc: 13/10/2025
