@@ -1,4 +1,8 @@
-Heloo, This is <Ho Ten>
+Hello, this is Luu Tan Khoa
+Xin chào, tôi là Lưu Tấn Khoa
+
+Conflict resolved on 07/10/2025
+
 Giới thiệu cá nhân:
 Tôi tên là Lưu Tấn Khoa.
 Hiện đang học chuyên ngành Công nghệ thông tin.
