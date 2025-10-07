@@ -1,0 +1,16 @@
+Giới thiệu cá nhân:
+Tôi tên là Lưu Tấn Khoa.
+Hiện đang học chuyên ngành Công nghệ thông tin.
+Tôi thích học hỏi và chia sẻ kiến thức.
+Mục tiêu của tôi là trở thành một lập trình viên giỏi.
+Tôi yêu thích làm việc nhóm và giải quyết vấn đề.
+
+Sở thích:
+1. Lập trình và học công nghệ mới.
+2. Nghe nhạc và xem phim.
+3. Chơi thể thao.
+
+Kỹ năng:
+1. Sử dụng Git và GitHub.
+2. Lập trình Python và HTML.
+3. Giao tiếp và làm việc nhóm tốt.
